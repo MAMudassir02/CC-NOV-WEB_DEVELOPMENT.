@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-color: #fbf9d9;
+   
+}
+
+
+
+.lap{
+    background-image: url('static/laptop.jpg');
+    background-size:cover;
+    height: 80vh; ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    background-attachment: scroll;
+    margin-bottom:  5px;
+}
+
+
+
+.mudimg{
+    display: flex;
+    
+    justify-content: center;
+}
+
+.quali{
+    display: flex;
+    justify-content: center;
+}
+
+.details{
+    display: flex;
+    justify-content: center;
+}
+
+.skillrow{
+    display: flex;
+    justify-content: center;
+}
+
+.soclogo{
+    height: 100px;
+    width: 100px;
+}
+
+.thanxcard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 30vh;
+}
